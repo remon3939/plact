@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+body{
+    background-color: #98d0fd;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    max-width: 120px;
+    margin: 0 auto;
+}
+
+.global-nav{
+    display: flex;
+    margin-top: 5px;
+}
+
+.global-nav li{
+    font-size: 15px;
+    margin-right: 25px;
+    list-style: none;
+}
+
+main{
+    text-align: center;
+}
+
+h1{
+    font-size: 42px;
+    color:black;
+}
+
+footer{
+    text-align: center;
+    font-size: 5px;
+}
